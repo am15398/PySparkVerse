@@ -5,6 +5,46 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - **LinkedIn** [AYUSH MAURYA](https://www.linkedin.com/in/ayush-maurya4/)
 - **LinkedIn** [ABHISHEK KUMAR](https://www.linkedin.com/in/abhishek72/)
 
+# PYTHON
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Python_practice "Hi, I found this somewhere on Google. Feel free to take credit for it."
+## 01_Python_basic
+- [**00 ComparisonOperators_Assert**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_00%20ComparisonOperators_Assert.ipynb)
+- [**01 python_variables**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_01%20python_variables.ipynb)
+- [**02 Python_datatype**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_02%20Python_datatypes.ipynb)
+- [**03 Python_If_statements**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_03%20Python_If_statements.ipynb)
+- [**04 Loops**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_04%20Loops.ipynb)
+- [**05 Funcitons**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_05%20Funcitons.ipynb)
+- [**06 Python_list**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_06%20Python_list.ipynb)
+- [**07 Python_tuple**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_07%20Python_tuple.ipynb)
+- [**08 Python_sets**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_08%20Python_sets.ipynb)
+- [**09 Python_dictionaries**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_09%20Python_dictionaries.ipynb)
+- [**10 Lamda_funcion**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_10%20Lamda_funcion.ipynb)
+- [**11 Local_Global_Variables**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_11%20Local_Global_Variables.ipynb)
+- [**12 exception_handling**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_12%20exception_handling.ipynb)
+- [**13 Strucutres_Examples**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_13%20Strucutres_Examples.ipynb)
+- [**14 Functions_Examples_1**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_14%20Functions_Examples_1.ipynb)
+- [**14 Functions_Examples_3**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_14%20Functions_Examples_3.ipynb)
+- [**15 Files_IO**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_15%20Files_IO.ipynb)
+- [**16 Regular_expressions**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_16%20Regular_expressions.ipynb)
+- [**17 Regular_Complete**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_17%20Regular_Complete.ipynb)
+
+## 02_Python_DS
+- [**01 List**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/01%20List.ipynb)
+- [**02 Dict**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/02%20Dict.ipynb)
+- [**03 Tuple**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/03%20Tuple.ipynb)
+- [**04 Set**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/04%20Set.ipynb)
+- [**05 Frozenset**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/05%20frozenset.ipynb)
+- [**06 String**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/06%20String.ipynb)
+- [**07 Collections Module**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/07%20Collections%20Module.ipynb)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PYSPARK 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  ## Table of Contents
  ## [01_PySpark_Basic](#01_pyspark_basic-in-this-lesson-we-will-learn-how-to-perform-transformations-in-pyspark)
 - [Day 1](#day-1-)
