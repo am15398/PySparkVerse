@@ -8,7 +8,7 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 # PYTHON
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Python_practice "Hi, I found this somewhere on Google. Feel free to take credit for it."
+# "Hi, I found this Python somewhere on Google. Feel free to take credit for it."
 ## 01_Python_basic
 - [**00 ComparisonOperators_Assert**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_00%20ComparisonOperators_Assert.ipynb)
 - [**01 python_variables**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_01%20python_variables.ipynb)
