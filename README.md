@@ -10,8 +10,8 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 
 # "Hi, I found this Python somewhere on Google. Feel free to take credit for it."
 ## 01_Python_basic
-- [**00 ComparisonOperators_Assert**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_00%20ComparisonOperators_Assert.ipynb)
-- [**01 python_variables**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_01%20python_variables.ipynb)
+- [**00 ComparisonOperators_Assert**](https://github.com/am15398/PySparkVerse/blob/main/Python/01%20Python%20Basic/Tutorial_00%20ComparisonOperators_Assert.ipynb)
+- [**01 python_variables**](https://github.com/am15398/PySparkVerse/blob/main/Python/01%20Python%20Basic/Tutorial_01%20python_variables.ipynb)
 - [**02 Python_datatype**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_02%20Python_datatypes.ipynb)
 - [**03 Python_If_statements**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_03%20Python_If_statements.ipynb)
 - [**04 Loops**](https://github.com/am15398/Python_practice/blob/main/01_Python_basic/Tutorial_04%20Loops.ipynb)
