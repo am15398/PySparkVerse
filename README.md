@@ -31,13 +31,13 @@ Welcome to the PySparkVerse repository! This repository contains a collection of
 - [**17 Regular_Complete**](https://github.com/am15398/PySparkVerse/blob/main/Python/01%20Python%20Basic/Tutorial_17%20Regular_Complete.ipynb)
 
 ## 02_Python_DS
-- [**01 List**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/01%20List.ipynb)
-- [**02 Dict**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/02%20Dict.ipynb)
-- [**03 Tuple**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/03%20Tuple.ipynb)
-- [**04 Set**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/04%20Set.ipynb)
-- [**05 Frozenset**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/05%20frozenset.ipynb)
-- [**06 String**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/06%20String.ipynb)
-- [**07 Collections Module**](https://github.com/am15398/Python_practice/blob/main/02_Python_DS/07%20Collections%20Module.ipynb)
+- [**01 List**](https://github.com/am15398/PySparkVerse/blob/main/Python/02%20Python%20DS/01%20List.ipynb)
+- [**02 Dict**](https://github.com/am15398/PySparkVerse/blob/main/Python/02%20Python%20DS/02%20Dict.ipynb)
+- [**03 Tuple**](https://github.com/am15398/PySparkVerse/blob/main/Python/02%20Python%20DS/03%20Tuple.ipynb)
+- [**04 Set**](https://github.com/am15398/PySparkVerse/blob/main/Python/02%20Python%20DS/04%20Set.ipynb)
+- [**05 Frozenset**](https://github.com/am15398/PySparkVerse/blob/main/Python/02%20Python%20DS/05%20frozenset.ipynb)
+- [**06 String**](https://github.com/am15398/PySparkVerse/blob/main/Python/02%20Python%20DS/06%20String.ipynb)
+- [**07 Collections Module**](https://github.com/am15398/PySparkVerse/blob/main/Python/02%20Python%20DS/07%20Collections%20Module.ipynb)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
